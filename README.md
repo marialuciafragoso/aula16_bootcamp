@@ -3,6 +3,11 @@
 
 Projeto desenvolvido durante a **Jornada de Dados**, adaptado de um exercício que utilizava a API de Pokémon. A proposta foi aplicar os mesmos conceitos em um exemplo mais próximo de uma situação real: consultar um CEP, validar os dados e armazená-los em um banco de dados.
 
+📌 Sobre a adaptação
+
+O projeto foi desenvolvido a partir da estrutura apresentada na aula, originalmente utilizando a API de Pokémon. Como exercício de aprendizado, adaptei a aplicação para um contexto mais próximo de uma situação real, utilizando a API ViaCEP para consultar e armazenar informações de endereços.
+
+
 ## 🎯 Objetivo
 
 A aplicação permite:

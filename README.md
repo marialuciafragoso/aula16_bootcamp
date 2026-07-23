@@ -18,15 +18,6 @@ A aplicação permite:
 - Salvar as informações em um banco SQLite;
 - Evitar o cadastro duplicado de um mesmo CEP.
 
-## 🛠️ Tecnologias
-
-- **Python**
-- **Poetry** — gerenciamento do ambiente e dependências
-- **Requests** — requisições à API
-- **Pydantic** — validação dos dados
-- **SQLAlchemy** — interação com o banco de dados
-- **SQLite** — banco de dados
-- **ViaCEP** — API de consulta de CEP
 
 ## 📂 Estrutura
 
@@ -48,6 +39,19 @@ A aplicação permite:
 - **models.py** — define a estrutura da tabela no banco usando SQLAlchemy.
 - **db.py** — configura a conexão e as sessões do banco.
 - **cep.db** — banco de dados SQLite.
+
+
+## 🛠️ Tecnologias
+
+- **Python**
+- **Poetry** — gerenciamento do ambiente e dependências
+- **Requests** — requisições à API
+- **Pydantic** — validação dos dados
+- **SQLAlchemy** — interação com o banco de dados
+- **SQLite** — banco de dados
+- **ViaCEP** — API de consulta de CEP
+
+
 
 ## 🔄 Fluxo da aplicação
 
